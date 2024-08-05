@@ -1,0 +1,74 @@
+commit 467b997c594f020a58373be45a074077b522c895
+Author: Ewan N Sinclair <ens21@typhoon.ae.ic.ac.uk>
+Date:   Fri Mar 22 22:45:58 2024 +0000
+
+    OpenMP and final code
+
+M	LidDrivenCavity.cpp
+M	LidDrivenCavity.h
+M	LidDrivenCavitySolver.cpp
+M	Makefile
+M	SolverCG.cpp
+M	SolverCG.h
+M	Test.cpp
+
+commit 5fcdcb8822f6daccf153ade2135f4de83b55b2de
+Author: Ewan N Sinclair <ens21@typhoon.ae.ic.ac.uk>
+Date:   Thu Mar 21 12:16:33 2024 +0000
+
+    Streamlined MPI + Unittest update
+
+M	LidDrivenCavity.cpp
+M	LidDrivenCavity.h
+M	LidDrivenCavitySolver.cpp
+M	Makefile
+M	Test.cpp
+
+commit 736ff37a07912396f8e986af508f3eabf1751546
+Author: Ewan N Sinclair <ens21@typhoon.ae.ic.ac.uk>
+Date:   Wed Mar 20 22:22:26 2024 +0000
+
+    MPI Succesfully added
+
+M	LidDrivenCavity.cpp
+M	LidDrivenCavity.h
+M	LidDrivenCavitySolver.cpp
+M	Makefile
+M	SolverCG.cpp
+M	SolverCG.h
+
+commit fb91de4686fa5de5f17b40fb6155c93a0a02a657
+Author: Ewan N Sinclair <ens21@typhoon.ae.ic.ac.uk>
+Date:   Sat Mar 16 11:30:01 2024 +0000
+
+    Unit tests
+
+M	LidDrivenCavity.cpp
+M	LidDrivenCavity.h
+M	LidDrivenCavitySolver.cpp
+M	Makefile
+M	SolverCG.cpp
+M	SolverCG.h
+A	Test.cpp
+
+commit c69101e126d06cfa5831715bb5e0f16092d86eeb
+Author: Ewan N Sinclair <ens21@typhoon.ae.ic.ac.uk>
+Date:   Sun Mar 10 17:51:15 2024 +0000
+
+    doxygen and makefile
+
+M	LidDrivenCavity.cpp
+M	LidDrivenCavity.h
+A	Makefile
+
+commit 6b153705e41c22fa69894104a8ee09210322ddb4
+Author: Ewan N Sinclair <ens21@typhoon.ae.ic.ac.uk>
+Date:   Fri Mar 8 11:20:14 2024 +0000
+
+    1st commit
+
+A	LidDrivenCavity.cpp
+A	LidDrivenCavity.h
+A	LidDrivenCavitySolver.cpp
+A	SolverCG.cpp
+A	SolverCG.h
